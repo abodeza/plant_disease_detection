@@ -1,5 +1,5 @@
 # Disease Detection in Plant Leaves
-The complete code and instructions for detecting plant diseases. 
+The complete code and instructions for detecting plant diseases utilizing OpenCV, SAM, and CLIP.
 
 ## Description
 Gharsa's Eye is a project that utilizes a three step pipeline that masks, detects, and classifies plant diseases as shown below:
